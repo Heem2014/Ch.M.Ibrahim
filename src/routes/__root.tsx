@@ -29,14 +29,18 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Ch.m.Ibrahim" },
+      { name: "description", content: "My Portfolio" },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Ch.m.Ibrahim" },
+      { property: "og:description", content: "My Portfolio" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Ch.m.Ibrahim" },
+      { name: "twitter:description", content: "My Portfolio" },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/6e673b0e-11ad-47e8-8238-d8b6086eafc8/id-preview-8466dc08--c91a2301-0203-4dc0-a538-f18082875e20.lovable.app-1776571868550.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/6e673b0e-11ad-47e8-8238-d8b6086eafc8/id-preview-8466dc08--c91a2301-0203-4dc0-a538-f18082875e20.lovable.app-1776571868550.png" },
     ],
     links: [
       {
