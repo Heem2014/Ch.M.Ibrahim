@@ -156,7 +156,7 @@ function Index() {
 
           <p className="mt-6 max-w-2xl text-lg text-muted-foreground md:text-xl">
             <span className="font-mono text-brand">{"// "}</span>
-            Hi, I'm <span className="text-foreground">Heem</span> — an engineer designing
+            Hi, I'm <span className="text-foreground">Ch.M.Ibrahim</span> — an engineer designing
             intelligent agents, scrapers, and automation pipelines that turn messy inputs into
             clean, useful outputs.
           </p>
