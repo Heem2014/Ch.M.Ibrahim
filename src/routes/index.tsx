@@ -53,16 +53,7 @@ const projects = [
     href: "https://github.com/Heem2014/ScrapeWebsiteTool",
     accent: "from-amber-400/30 via-orange-400/10 to-transparent",
   },
-  {
-    name: "Profile / Lab",
-    description:
-      "Profile README and experimental sandbox. Where new ideas land before they become real projects.",
-    tags: ["Markdown", "Sandbox"],
-    href: "https://github.com/Heem2014/Heem2014",
-    accent: "from-indigo-400/30 via-violet-400/10 to-transparent",
-  },
 ];
-
 const stack = [
   "Python",
   "TypeScript",
@@ -86,7 +77,7 @@ const contacts = [
   {
     label: "Discord",
     handle: "heem2014",
-    href: "https://discord.com/users/heem2014",
+    href: "https://discord.com/users/heem2014.",
     icon: MessageCircle,
   },
 ];
