@@ -93,12 +93,6 @@ const contacts = [
     icon: MessageCircle,
   },
   {
-    label: "Contra",
-    handle: "@heem2014",
-    href: "https://contra.com/heem2014",
-    icon: Briefcase,
-  },
-  {
     label: "X / Twitter",
     handle: "@Heem2014",
     href: "https://x.com/Heem2014",
@@ -106,8 +100,8 @@ const contacts = [
   },
   {
     label: "Email",
-    handle: "hello@heem2014.dev",
-    href: "mailto:hello@heem2014.dev",
+    handle: "chmibrahim.14@gmail.com",
+    href: "mailto:chmibrahim.14@gmail.com",
     icon: Mail,
   },
 ];
