@@ -127,7 +127,7 @@ function Index() {
           <div className="animate-scan h-px w-full bg-gradient-to-r from-transparent via-brand to-transparent" />
         </div>
 
-        <div className="relative mx-auto max-w-6xl px-6 pt-24 pb-32 md:pt-36 md:pb-40">
+        <div className="relative mx-auto max-w-6xl px-6 pt-24 pb-32 md:pt-36 md:pb-40 flex flex-col items-center text-center">
           <div className="mb-8 inline-flex items-center gap-2 rounded-full border border-brand/30 bg-card/40 px-3 py-1 font-mono text-[11px] uppercase tracking-widest text-brand backdrop-blur">
             <Sparkles className="h-3 w-3" />
             <span>SYS / available for new transmissions</span>
@@ -152,7 +152,7 @@ function Index() {
             clean, useful outputs.
           </p>
 
-          <div className="mt-10 flex flex-wrap items-center gap-4">
+          <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <a
               href="#work"
               className="group inline-flex items-center gap-2 rounded-full bg-brand px-6 py-3 font-mono text-xs uppercase tracking-widest text-brand-foreground transition-transform hover:scale-[1.03]"
