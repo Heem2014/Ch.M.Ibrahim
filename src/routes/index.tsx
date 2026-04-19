@@ -3,7 +3,6 @@ import {
   Github,
   MessageCircle,
   Mail,
-  Briefcase,
   Twitter,
   ArrowUpRight,
   Sparkles,
