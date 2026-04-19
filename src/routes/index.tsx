@@ -134,15 +134,15 @@ function Index() {
           </div>
 
           <h1 className="max-w-4xl text-5xl font-semibold leading-[1.02] tracking-tight md:text-7xl">
-            I build{" "}
+            Building{" "}
             <span
               className="bg-clip-text text-transparent text-glow"
               style={{ backgroundImage: "var(--gradient-brand)" }}
             >
-              AI systems
-            </span>{" "}
-            <br className="hidden md:block" />
-            that ship.
+              intelligent systems
+            </span>
+            ,<br className="hidden md:block" />
+            end to end.
           </h1>
 
           <p className="mt-6 max-w-2xl text-lg text-muted-foreground md:text-xl">
