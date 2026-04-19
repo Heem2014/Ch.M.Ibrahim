@@ -91,18 +91,6 @@ const contacts = [
     href: "https://discord.com/users/heem2014",
     icon: MessageCircle,
   },
-  {
-    label: "X / Twitter",
-    handle: "@Heem2014",
-    href: "https://x.com/Heem2014",
-    icon: Twitter,
-  },
-  {
-    label: "Email",
-    handle: "chmibrahim.14@gmail.com",
-    href: "mailto:chmibrahim.14@gmail.com",
-    icon: Mail,
-  },
 ];
 
 function Index() {
