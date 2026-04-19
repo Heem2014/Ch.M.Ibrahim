@@ -89,7 +89,7 @@ function Index() {
       <header className="sticky top-0 z-40 border-b border-border/40 bg-background/60 backdrop-blur-xl">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
           <a href="#top" className="flex items-center gap-2 font-mono text-sm tracking-tight">
-            <span className="grid h-7 w-7 place-items-center rounded-md bg-brand text-brand-foreground font-bold shadow-[0_0_20px_oklch(0.78_0.18_145_/_0.5)]">
+            <span className="grid h-7 w-7 place-items-center rounded-md bg-brand text-brand-foreground font-bold shadow-[0_0_20px_oklch(0.78_0.17_60_/_0.5)]">
               H
             </span>
             <span className="text-foreground">heem2014</span>
@@ -106,7 +106,7 @@ function Index() {
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-full border border-border bg-secondary/60 px-4 py-1.5 font-mono text-[11px] uppercase tracking-wider text-foreground transition-all hover:border-brand/50 hover:text-brand"
           >
-            <span className="h-1.5 w-1.5 rounded-full bg-brand shadow-[0_0_8px_oklch(0.78_0.18_145)]" />
+            <span className="h-1.5 w-1.5 rounded-full bg-brand shadow-[0_0_8px_oklch(0.78_0.17_60)]" />
             Online
           </a>
         </div>
@@ -236,7 +236,7 @@ function Index() {
               href={p.href}
               target="_blank"
               rel="noreferrer"
-              className="group relative overflow-hidden rounded-2xl border border-border bg-card p-6 transition-all hover:border-brand/50 hover:-translate-y-1 hover:shadow-[0_20px_60px_-20px_oklch(0.78_0.18_145/0.3)]"
+              className="group relative overflow-hidden rounded-2xl border border-border bg-card p-6 transition-all hover:border-brand/50 hover:-translate-y-1 hover:shadow-[0_20px_60px_-20px_oklch(0.78_0.17_60/0.3)]"
             >
               <div
                 className={`pointer-events-none absolute inset-0 -z-0 bg-gradient-to-br ${p.accent} opacity-0 transition-opacity duration-500 group-hover:opacity-100`}
@@ -288,7 +288,7 @@ function Index() {
             {stack.map((s) => (
               <span
                 key={s}
-                className="group inline-flex items-center gap-2 rounded-full border border-border bg-background px-4 py-2 font-mono text-xs uppercase tracking-wider text-foreground transition-all hover:border-brand hover:text-brand hover:shadow-[0_0_20px_oklch(0.78_0.18_145/0.3)]"
+                className="group inline-flex items-center gap-2 rounded-full border border-border bg-background px-4 py-2 font-mono text-xs uppercase tracking-wider text-foreground transition-all hover:border-brand hover:text-brand hover:shadow-[0_0_20px_oklch(0.78_0.17_60/0.3)]"
               >
                 <Zap className="h-3 w-3 text-brand opacity-0 transition-opacity group-hover:opacity-100" />
                 {s}
@@ -329,7 +329,7 @@ function Index() {
                 rel="noreferrer"
                 className="group relative flex items-center gap-4 bg-card p-6 transition-all hover:bg-accent"
               >
-                <div className="grid h-12 w-12 shrink-0 place-items-center rounded-xl border border-border bg-background transition-all group-hover:border-brand/50 group-hover:text-brand group-hover:shadow-[0_0_20px_oklch(0.78_0.18_145/0.3)]">
+                <div className="grid h-12 w-12 shrink-0 place-items-center rounded-xl border border-border bg-background transition-all group-hover:border-brand/50 group-hover:text-brand group-hover:shadow-[0_0_20px_oklch(0.78_0.17_60/0.3)]">
                   <Icon className="h-5 w-5" />
                 </div>
                 <div className="min-w-0 flex-1">
@@ -351,7 +351,7 @@ function Index() {
                 STATUS
               </div>
               <div className="font-mono text-sm text-brand">
-                <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-brand shadow-[0_0_8px_oklch(0.78_0.18_145)]" />
+                <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-brand shadow-[0_0_8px_oklch(0.78_0.17_60)]" />
                 <span className="ml-2">Accepting new projects</span>
               </div>
             </div>
